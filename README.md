@@ -3,7 +3,6 @@
 - 🌱 I’m currently as Software Engineer at MRT
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me : Instagram @reynaldomarbun
-- ⚡ Fun fact: Bad English & I'm not expertise programmer
 
 <!---
 hosearey/hosearey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
